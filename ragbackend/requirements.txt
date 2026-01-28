@@ -1,0 +1,12 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.20.0
+minio
+chromadb
+ollama
+sqlalchemy
+asyncpg
+python-multipart
+pydantic
+flask
+requests
+PyPDF2
